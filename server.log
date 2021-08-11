@@ -1,0 +1,936 @@
+┌──────────────────────────────────┐
+│ SPT-AKI 1.5.1                    │
+│ https://www.guilded.gg/senkospub │
+│                                  │
+│ This work is free of charge      │
+│ Commercial use is prohibited     │
+└──────────────────────────────────┘
+
+Thanks everyone for enjoying our work and for your amazing support thorough the years!
+We couldn't have done it without you.
+- Senko-san
+
+ModLoader: loading mods...
+[INFO] Loading: GhostFenixx - Server Value Modifier 1.2.5
+SVM has awoken, EmutarkovRC wishes you a good day
+[INFO] SVM: Customized loot multipliers are on
+[INFO] SVM: Custom Fatigue settings activated
+[INFO] SVM: Fatigue Settings: MinEffect: 0.1
+ FatiguePerPoint: 0.25
+ FreshEffect: 1.5
+ FreshPoints: 1
+ PointsBeforeFatigue: 1
+ FatigueResetTime: 300
+[SUCCESS] Started webserver at https://127.0.0.1:443
+[SUCCESS] Started websocket at wss://127.0.0.1:443
+[DEBUG] Saved profiles
+[undefined][127.0.0.1] /launcher/server/connect
+[undefined][127.0.0.1] /files/launcher/bg.png
+[undefined][127.0.0.1] /launcher/profile/login
+[undefined][127.0.0.1] /launcher/profile/get
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[undefined][127.0.0.1] /files/launcher/side_usec.png
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/login
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/get
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[undefined][127.0.0.1] /singleplayer/bundles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/start
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/menu/locale/es
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/version/validate
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/languages
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/config
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/items
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/customization
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/globals
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/select
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/weather
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/locale/es
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/locations
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/select
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/handbook/templates
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/areas
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/settings
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/production/recipes
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/production/scavcase/recipes
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/handbook/builds/my/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/quest/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/notifier/channel/create
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/mail/dialog/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/request/list/inbox
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/request/list/outbox
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/customization/storage
+[INFO] [WS] Player: 4ef9a5d68e8b6a419a341088 has connected
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/server/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getTradersList
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/checkVersion
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/items/moving
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/raid/menu
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] [WS] Pinging player: 4ef9a5d68e8b6a419a341088
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/weapon/durability
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/location/getLocalloot
+[SUCCESS] A total of 291 containers generated
+[SUCCESS] A total of 729 items spawned
+[SUCCESS] Generated location bigmap
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] [WS] Pinging player: 4ef9a5d68e8b6a419a341088
+[DEBUG] [WS] Socket lost, deleting handle
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[undefined][127.0.0.1] /launcher/server/connect
+[undefined][127.0.0.1] /files/launcher/bg.png
+[undefined][127.0.0.1] /launcher/profile/login
+[undefined][127.0.0.1] /launcher/profile/get
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[undefined][127.0.0.1] /files/launcher/side_usec.png
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/server/connect
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/server/connect
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/login
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/get
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/login
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/get
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[undefined][127.0.0.1] /singleplayer/bundles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/start
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/menu/locale/es
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/version/validate
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/languages
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/config
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/items
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/customization
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/globals
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/select
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/weather
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/locale/es
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/locations
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/select
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/handbook/templates
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/areas
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/settings
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/production/recipes
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/production/scavcase/recipes
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/handbook/builds/my/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/quest/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/notifier/channel/create
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/mail/dialog/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/request/list/inbox
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/request/list/outbox
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/customization/storage
+[INFO] [WS] Player: 4ef9a5d68e8b6a419a341088 has connected
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/server/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getTradersList
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/checkVersion
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/raid/menu
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/insurance/items/list/cost
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/raid/menu
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/weapon/durability
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/location/getLocalloot
+[SUCCESS] A total of 32 containers generated
+[SUCCESS] A total of 86 items spawned
+[SUCCESS] Generated location factory4_day
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/core/core
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/marksman/easy
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/marksman/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/marksman/hard
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/marksman/impossible
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/assault/easy
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/assault/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/assault/hard
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/assault/impossible
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossTest/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossTest/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossTest/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossTest/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossBully/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossBully/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossBully/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossBully/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerTest/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerTest/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerTest/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerTest/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerBully/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerBully/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerBully/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerBully/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossKilla/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossKilla/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossKilla/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossKilla/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossKojaniy/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossKojaniy/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossKojaniy/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossKojaniy/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerKojaniy/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerKojaniy/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerKojaniy/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerKojaniy/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/pmcBot/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/pmcBot/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/pmcBot/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/pmcBot/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/cursedAssault/easy
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/cursedAssault/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/cursedAssault/hard
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/cursedAssault/impossible
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossGluhar/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossGluhar/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossGluhar/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossGluhar/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerGluharAssault/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerGluharAssault/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerGluharAssault/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerGluharAssault/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerGluharSecurity/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerGluharSecurity/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerGluharSecurity/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerGluharSecurity/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerGluharScout/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerGluharScout/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerGluharScout/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerGluharScout/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerGluharSnipe/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerGluharSnipe/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerGluharSnipe/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerGluharSnipe/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerSanitar/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerSanitar/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerSanitar/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/followerSanitar/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossSanitar/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossSanitar/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossSanitar/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/bossSanitar/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/test/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/test/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/test/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/test/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/assault/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/assault/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/assault/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/assault/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/sectantWarrior/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/sectantWarrior/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/sectantWarrior/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/sectantWarrior/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/sectantPriest/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/sectantPriest/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/sectantPriest/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/difficulty/sectantPriest/normal
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/limit/assault
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/bot/limit/assault
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/bot/generate
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] [WS] Pinging player: 4ef9a5d68e8b6a419a341088
+[DEBUG] [WS] Socket lost, deleting handle
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[INFO] onUpdate: aki-dialogue doesn't report success or fail
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /raid/profile/save
+[INFO] [WS] Player: 4ef9a5d68e8b6a419a341088 has connected
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getTradersList
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/items/moving
+[SUCCESS] Items taken. Status OK.
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/items
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/customization
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/globals
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/select
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/weather
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/locations
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/select
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/handbook/templates
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/areas
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/settings
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/production/recipes
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/production/scavcase/recipes
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/handbook/builds/my/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/quest/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/notifier/channel/create
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/mail/dialog/list
+[INFO] [WS] Player: 4ef9a5d68e8b6a419a341088 has connected
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/request/list/inbox
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/request/list/outbox
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/customization/storage
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/server/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getTradersList
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/checkVersion
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/items/moving
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/ragfair/find
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/items/moving
+[SUCCESS] Items taken. Status OK.
+[SUCCESS] Bought item: 5cc70093e4a949033c734312
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/items/moving
+[SUCCESS] Items taken. Status OK.
+[SUCCESS] Bought item: 5cc70093e4a949033c734312
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/items/moving
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/ragfair/find
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/ragfair/find
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/ragfair/find
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/ragfair/find
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/ragfair/find
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/ragfair/find
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/ragfair/find
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/ragfair/find
+[DEBUG] [WS] Pinging player: 4ef9a5d68e8b6a419a341088
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/ragfair/find
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/ragfair/find
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/ragfair/find
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/ragfair/find
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/items/moving
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/items/moving
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getTrader/54cb57776803fa99248b456e
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getUserAssortPrice/trader/5a7c2eca46aef81a7ca2145d
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/items/moving
+[INFO] Selling: c207bef70e4360f31e239cf8
+[INFO] Selling: a2d68d9790e1ada08e92e020
+[INFO] Selling: 17331739a91611990d152293
+[INFO] Selling: 843a837f54fe23b10792b482
+[INFO] Selling: a2f0e0f4e6d2ff66a5edb8d4
+[INFO] Selling: b51a1b5ba635809331315cad
+[INFO] Selling: be60d4546d1b20e36a1fc0a6
+[INFO] Selling: 81f8959dcbe2191b21b8e304
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[DEBUG] [WS] Pinging player: 4ef9a5d68e8b6a419a341088
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/items/moving
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/items/moving
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getUserAssortPrice/trader/5a7c2eca46aef81a7ca2145d
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getUserAssortPrice/trader/5ac3b934156ae10c4430e83c
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getTraderAssort/54cb57776803fa99248b456e
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getUserAssortPrice/trader/54cb57776803fa99248b456e
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getTraderAssort/579dc571d53a0658a154fbec
+[WARNING] generating fence
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getUserAssortPrice/trader/579dc571d53a0658a154fbec
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/ragfair/find
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/items/prices
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/ragfair/itemMarketPrice
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/items/moving
+[INFO] Rolling for sell 21 items (chance: 276)
+[INFO] Tax Calculated to be: 1435
+[SUCCESS] Items taken. Status OK.
+[DEBUG] Saved profiles
+[DEBUG] [WS] Pinging player: 4ef9a5d68e8b6a419a341088
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/raid/menu
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] WS: message sent
+[DEBUG] WS: message sent
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/weapon/durability
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/location/getLocalloot
+[SUCCESS] A total of 291 containers generated
+[SUCCESS] A total of 694 items spawned
+[SUCCESS] Generated location bigmap
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] [WS] Pinging player: 4ef9a5d68e8b6a419a341088
+[DEBUG] [WS] Socket lost, deleting handle
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[INFO] onUpdate: aki-dialogue doesn't report success or fail
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/server/connect
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/login
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/get
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/server/connect
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/server/connect
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/login
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/get
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/server/connect
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/server/connect
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/login
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/get
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/server/connect
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/server/connect
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/server/connect
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/login
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/get
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/login
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/get
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[undefined][127.0.0.1] /singleplayer/bundles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/start
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/menu/locale/es
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/version/validate
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/languages
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/config
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/items
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/customization
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/globals
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/select
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/weather
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/locale/es
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/locations
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/select
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/handbook/templates
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/areas
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/settings
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/production/recipes
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/production/scavcase/recipes
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/handbook/builds/my/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/quest/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/notifier/channel/create
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/mail/dialog/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/request/list/inbox
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/request/list/outbox
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/customization/storage
+[INFO] [WS] Player: 4ef9a5d68e8b6a419a341088 has connected
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/server/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getTradersList
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/checkVersion
+[undefined][127.0.0.1] /files/trader/avatar/5ac3b86a86f77461491d1ad8.jpg
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/mail/dialog/view
+[undefined][127.0.0.1] /files/trader/avatar/59b91ca086f77469a81232e4.jpg
+[undefined][127.0.0.1] /files/trader/avatar/5a7c2ebb86f7746e324a06ab.jpg
+[undefined][127.0.0.1] /files/trader/avatar/59b91cb486f77469a81232e5.jpg
+[undefined][127.0.0.1] /files/trader/avatar/59b91cab86f77469aa5343ca.jpg
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/mail/dialog/view
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/mail/dialog/getAllAttachments
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/items/moving
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/raid/menu
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/insurance/items/list/cost
+[DEBUG] Saved profiles
+[undefined][127.0.0.1] /files/CONTENT/banners/banner_usec.jpg
+[undefined][127.0.0.1] /files/CONTENT/banners/banner_bear.jpg
+[undefined][127.0.0.1] /files/CONTENT/banners/banner_terragroup.jpg
+[undefined][127.0.0.1] /files/CONTENT/banners/norvinskzone.jpg
+[undefined][127.0.0.1] /files/CONTENT/banners/banner_scav.jpg
+[undefined][127.0.0.1] /files/CONTENT/banners/banner_tarkov.jpg
+[undefined][127.0.0.1] /files/CONTENT/banners/tglabs.jpg
+[undefined][127.0.0.1] /files/CONTENT/banners/banner_scavraider.jpg
+[DEBUG] Saved profiles
+[DEBUG] WS: message sent
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] [WS] Pinging player: 4ef9a5d68e8b6a419a341088
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/weapon/durability
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/location/getLocalloot
+[SUCCESS] A total of 291 containers generated
+[SUCCESS] A total of 754 items spawned
+[SUCCESS] Generated location bigmap
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] [WS] Pinging player: 4ef9a5d68e8b6a419a341088
+[DEBUG] [WS] Socket lost, deleting handle
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/login
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/get
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[undefined][127.0.0.1] /singleplayer/bundles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/start
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/menu/locale/es
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/version/validate
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/languages
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/config
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/items
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/customization
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/globals
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/select
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/weather
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/locale/es
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/locations
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/select
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/handbook/templates
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/areas
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/settings
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/production/recipes
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/production/scavcase/recipes
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/handbook/builds/my/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/quest/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/notifier/channel/create
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/mail/dialog/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/request/list/inbox
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/request/list/outbox
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/customization/storage
+[INFO] [WS] Player: 4ef9a5d68e8b6a419a341088 has connected
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/server/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getTradersList
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/checkVersion
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/mail/dialog/view
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/mail/dialog/getAllAttachments
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/items/moving
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[undefined][127.0.0.1] /files/trader/avatar/579dc571d53a0658a154fbec.jpg
+[undefined][127.0.0.1] /files/trader/avatar/59b91cbd86f77469aa5343cb.jpg
+[undefined][127.0.0.1] /files/trader/avatar/5c06531a86f7746319710e1b.jpg
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getUserAssortPrice/trader/5ac3b934156ae10c4430e83c
+[undefined][127.0.0.1] /files/handbook/icon_gear.png
+[undefined][127.0.0.1] /files/handbook/icon_barter.png
+[undefined][127.0.0.1] /files/handbook/icon_weapons_melee.png
+[undefined][127.0.0.1] /files/handbook/icon_gear_components.png
+[undefined][127.0.0.1] /files/handbook/icon_gear_headsets.png
+[undefined][127.0.0.1] /files/handbook/icon_gear_armor.png
+[undefined][127.0.0.1] /files/handbook/icon_gear_rigs.png
+[undefined][127.0.0.1] /files/handbook/icon_gear_secured.png
+[undefined][127.0.0.1] /files/handbook/icon_gear_cases.png
+[undefined][127.0.0.1] /files/handbook/icon_gear_facecovers.png
+[undefined][127.0.0.1] /files/handbook/icon_gear_headwear.png
+[undefined][127.0.0.1] /files/handbook/icon_gear_visors.png
+[undefined][127.0.0.1] /files/handbook/icon_gear_backpacks.png
+[undefined][127.0.0.1] /files/handbook/icon_mods.png
+[undefined][127.0.0.1] /files/handbook/icon_mods_functional.png
+[undefined][127.0.0.1] /files/handbook/icon_mods_gear.png
+[undefined][127.0.0.1] /files/handbook/icon_mods_vital.png
+[undefined][127.0.0.1] /files/handbook/icon_weapons.png
+[undefined][127.0.0.1] /files/handbook/icon_weapons_mg.png
+[undefined][127.0.0.1] /files/handbook/icon_weapons_throw.png
+[undefined][127.0.0.1] /files/handbook/icon_weapons_special.png
+[undefined][127.0.0.1] /files/handbook/icon_weapons_shotguns.png
+[undefined][127.0.0.1] /files/handbook/icon_weapons_assaultrifles.png
+[undefined][127.0.0.1] /files/handbook/icon_weapons_botaction.png
+[undefined][127.0.0.1] /files/handbook/icon_weapons_dmr.png
+[undefined][127.0.0.1] /files/handbook/icon_weapons_gl.png
+[undefined][127.0.0.1] /files/handbook/icon_weapons_pistols.png
+[undefined][127.0.0.1] /files/handbook/icon_weapons_smg.png
+[undefined][127.0.0.1] /files/handbook/icon_weapons_carbines.png
+[undefined][127.0.0.1] /files/handbook/icon_ammo_rounds.png
+[undefined][127.0.0.1] /files/handbook/icon_ammo_boxes.png
+[undefined][127.0.0.1] /files/handbook/icon_ammo.png
+[undefined][127.0.0.1] /files/handbook/icon_provisions.png
+[undefined][127.0.0.1] /files/handbook/icon_provisions_food.png
+[undefined][127.0.0.1] /files/handbook/icon_provisions_drinks.png
+[undefined][127.0.0.1] /files/handbook/icon_medical.png
+[undefined][127.0.0.1] /files/handbook/icon_medical_medkits.png
+[undefined][127.0.0.1] /files/handbook/icon_medical_injectors.png
+[undefined][127.0.0.1] /files/handbook/icon_medical_injury.png
+[undefined][127.0.0.1] /files/handbook/icon_keys.png
+[undefined][127.0.0.1] /files/handbook/icon_medical_pills.png
+[undefined][127.0.0.1] /files/handbook/icon_keys_mechanic.png
+[undefined][127.0.0.1] /files/handbook/icon_keys_electronic.png
+[undefined][127.0.0.1] /files/handbook/icon_info.png
+[undefined][127.0.0.1] /files/handbook/icon_maps.png
+[undefined][127.0.0.1] /files/handbook/icon_spec.png
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/customization/5ac3b934156ae10c4430e83c/offers
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/items/moving
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/raid/menu
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/raid/menu
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/insurance/items/list/cost
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] [WS] Pinging player: 4ef9a5d68e8b6a419a341088
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/weapon/durability
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/location/getLocalloot
+[SUCCESS] A total of 291 containers generated
+[SUCCESS] A total of 703 items spawned
+[SUCCESS] Generated location bigmap
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] [WS] Pinging player: 4ef9a5d68e8b6a419a341088
+[DEBUG] [WS] Socket lost, deleting handle
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/login
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/get
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[undefined][127.0.0.1] /singleplayer/bundles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/start
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/menu/locale/es
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/version/validate
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/languages
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/config
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/items
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/customization
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/globals
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/select
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/weather
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/locale/es
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/locations
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/select
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/handbook/templates
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/areas
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/settings
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/production/recipes
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/hideout/production/scavcase/recipes
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/handbook/builds/my/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/quest/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/notifier/channel/create
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/mail/dialog/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/request/list/inbox
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/profile/status
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/friend/request/list/outbox
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/customization/storage
+[INFO] [WS] Player: 4ef9a5d68e8b6a419a341088 has connected
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/server/list
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getTradersList
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/checkVersion
+[INFO] onUpdate: aki-dialogue doesn't report success or fail
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/api/getUserAssortPrice/trader/5ac3b934156ae10c4430e83c
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/trading/customization/5ac3b934156ae10c4430e83c/offers
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/items/moving
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /player/health/sync
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/raid/menu
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/profile/items/moving
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/raid/menu
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] [WS] Pinging player: 4ef9a5d68e8b6a419a341088
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /singleplayer/settings/weapon/durability
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/location/getLocalloot
+[SUCCESS] A total of 291 containers generated
+[SUCCESS] A total of 737 items spawned
+[SUCCESS] Generated location bigmap
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive
+[DEBUG] Saved profiles
+[DEBUG] [WS] Pinging player: 4ef9a5d68e8b6a419a341088
+[DEBUG] [WS] Socket lost, deleting handle
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /launcher/profile/info
+[DEBUG] Saved profiles
+[DEBUG] Saved profiles
+[4ef9a5d68e8b6a419a341088][127.0.0.1] /client/game/keepalive

@@ -1,0 +1,387 @@
+2021-08-11 23:19:17.769 +02:00|0.12.10.2.12893|Info|application|scheduler FrameTicks:160000 targetFrameRate:60 
+2021-08-11 23:19:17.783 +02:00|0.12.10.2.12893|Info|application|Application awaken, updateQueue:'Update' 
+2021-08-11 23:19:17.783 +02:00|0.12.10.2.12893|Info|application|Assert.raiseExceptions:'True' 
+2021-08-11 23:19:17.783 +02:00|0.12.10.2.12893|Info|application|Application obfuscation succeed. 
+2021-08-11 23:19:18.706 +02:00|0.12.10.2.12893|Error|Default|Aki.Loader: Loaded 
+2021-08-11 23:19:18.713 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Loaded 
+2021-08-11 23:19:18.713 +02:00|0.12.10.2.12893|Error|Default|Aki.Loader: Loaded 'C:\0.12.10.2.12893_AKI_1.5.1_AIO\0.12.10.2.12893_AKI_1.5.1_AIO.7z\0.12.10.2.12893_AKI_1.5.1_AIO\Aki_Data\Modules\aki-common/module.dll'! 
+2021-08-11 23:19:18.713 +02:00|0.12.10.2.12893|Error|Default|Aki.Core: Loaded 
+2021-08-11 23:19:19.388 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch BattleEyePatch 
+2021-08-11 23:19:19.404 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch SslCertificatePatch 
+2021-08-11 23:19:19.404 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch UnityWebRequestPatch 
+2021-08-11 23:19:19.404 +02:00|0.12.10.2.12893|Error|Default|Aki.Loader: Loaded 'C:\0.12.10.2.12893_AKI_1.5.1_AIO\0.12.10.2.12893_AKI_1.5.1_AIO.7z\0.12.10.2.12893_AKI_1.5.1_AIO\Aki_Data\Modules\aki-core/module.dll'! 
+2021-08-11 23:19:19.410 +02:00|0.12.10.2.12893|Error|Default|Aki.SinglePlayer: Loaded 
+2021-08-11 23:19:19.410 +02:00|0.12.10.2.12893|Error|Default|Aki.SinglePlayer: Request host: https://127.0.0.1:443 
+2021-08-11 23:19:19.410 +02:00|0.12.10.2.12893|Error|Default|Aki.SinglePlayer: Request: /singleplayer/bundles 
+2021-08-11 23:19:19.410 +02:00|0.12.10.2.12893|Error|Default|Aki.SinglePlayer: Request session not active 
+2021-08-11 23:19:19.519 +02:00|0.12.10.2.12893|Error|Default|Aki.SinglePlayer: Request was successful 
+2021-08-11 23:19:19.585 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch EasyAssetsPatch 
+2021-08-11 23:19:19.607 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch EasyBundlePatch 
+2021-08-11 23:19:19.627 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch BundleLoadPatch 
+2021-08-11 23:19:19.638 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch OfflineSaveProfilePatch 
+2021-08-11 23:19:19.708 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch OfflineSpawnPointPatch 
+2021-08-11 23:19:19.730 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch ExperienceGainPatch 
+2021-08-11 23:19:19.730 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch OnLoadRaidPatch 
+2021-08-11 23:19:19.781 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch WeaponDurabilityPatch 
+2021-08-11 23:19:19.793 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch SingleModeJamPatch 
+2021-08-11 23:19:19.793 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch MainMenuControllerPatch 
+2021-08-11 23:19:19.793 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch PlayerPatch 
+2021-08-11 23:19:19.804 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch MatchmakerOfflineRaidPatch 
+2021-08-11 23:19:19.804 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch MatchMakerSelectionLocationScreenPatch 
+2021-08-11 23:19:19.804 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch InsuranceScreenPatch 
+2021-08-11 23:19:19.818 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch BossSpawnChancePatch 
+2021-08-11 23:19:19.818 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch BotTemplateLimitPatch 
+2021-08-11 23:19:19.818 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch GetNewBotTemplatesPatch 
+2021-08-11 23:19:19.855 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch RemoveUsedBotProfilePatch 
+2021-08-11 23:19:19.870 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch SpawnPmcPatch 
+2021-08-11 23:19:19.888 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch CoreDifficultyPatch 
+2021-08-11 23:19:19.905 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch BotDifficultyPatch 
+2021-08-11 23:19:19.930 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch OnDeadPatch 
+2021-08-11 23:19:19.930 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch OnShellEjectEventPatch 
+2021-08-11 23:19:19.956 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch BotStationaryWeaponPatch 
+2021-08-11 23:19:19.959 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch BeaconPatch 
+2021-08-11 23:19:19.959 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch DogtagPatch 
+2021-08-11 23:19:19.959 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch LoadOfflineRaidScreenPatch 
+2021-08-11 23:19:19.976 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch ScavPrefabLoadPatch 
+2021-08-11 23:19:19.976 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch ScavProfileLoadPatch 
+2021-08-11 23:19:20.033 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch ScavExfilPatch 
+2021-08-11 23:19:20.037 +02:00|0.12.10.2.12893|Error|Default|Aki.Common: Applied patch EndByTimerPatch 
+2021-08-11 23:19:20.037 +02:00|0.12.10.2.12893|Error|Default|Aki.Loader: Loaded 'C:\0.12.10.2.12893_AKI_1.5.1_AIO\0.12.10.2.12893_AKI_1.5.1_AIO.7z\0.12.10.2.12893_AKI_1.5.1_AIO\Aki_Data\Modules\aki-singleplayer/module.dll'! 
+2021-08-11 23:19:20.037 +02:00|0.12.10.2.12893|Error|Default|Aki.Loader: Failed to find module.dll in 'C:\0.12.10.2.12893_AKI_1.5.1_AIO\0.12.10.2.12893_AKI_1.5.1_AIO.7z\0.12.10.2.12893_AKI_1.5.1_AIO\user\mods\GhostFenixx-ServerValueModifier' 
+2021-08-11 23:19:33.004 +02:00|0.12.10.2.12893|Debug|nvidia|[HIGHLIGHTS] Disabling Highlights 
+2021-08-11 23:19:35.313 +02:00|0.12.10.2.12893|Info|application|Client settings:
+{"Shared":{"keyBindings":[{"keyName":"LeanLockRight","variants":[{"isAxis":false,"keyCode":["E"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"LeanLockLeft","variants":[{"isAxis":false,"keyCode":["Q"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Shoot","variants":[{"isAxis":false,"keyCode":["Mouse0"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Continuous","pressAvailable":false,"PressTypeAvailable":true},{"keyName":"Aim","variants":[{"isAxis":false,"keyCode":["Mouse1"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Continuous","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"ChangeAimScope","variants":[{"isAxis":false,"keyCode":["Z"],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"ChangeAimScopeMagnification","variants":[{"isAxis":false,"keyCode":["Z"],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"DoubleClick","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Nidnod","variants":[{"isAxis":false,"keyCode":["Mouse2"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Release","pressAvailable":false,"PressTypeAvailable":true},{"keyName":"ToggleGoggles","variants":[{"isAxis":false,"keyCode":["N"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Mumble","variants":[{"isAxis":false,"keyCode":["Y"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"DoubleClick","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"MumbleDropdown","variants":[{"isAxis":false,"keyCode":["Y"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Continuous","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"MumbleQuick","variants":[{"isAxis":false,"keyCode":["Y"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Release","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"WatchTime","variants":[{"isAxis":false,"keyCode":["O"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Compass","variants":[{"isAxis":false,"keyCode":["U"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"WatchTimerAndExits","variants":[{"isAxis":false,"keyCode":["O"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"DoubleClick","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Tactical","variants":[{"isAxis":false,"keyCode":["T"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"NextTacticalDevice","variants":[{"isAxis":false,"keyCode":["T","LeftControl"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Next","variants":[{"isAxis":true,"keyCode":[],"axisName":"Mouse Scroll","positiveAxis":true,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Previous","variants":[{"isAxis":true,"keyCode":[],"axisName":"Mouse Scroll","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Interact","variants":[{"isAxis":false,"keyCode":["F"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Continuous","pressAvailable":false,"PressTypeAvailable":true},{"keyName":"ThrowGrenade","variants":[{"isAxis":false,"keyCode":["G"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"ReloadWeapon","variants":[{"isAxis":false,"keyCode":["R"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Release","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"QuickReloadWeapon","variants":[{"isAxis":false,"keyCode":["R"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"DoubleClick","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"DropBackpack","variants":[{"isAxis":false,"keyCode":["Backslash"],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Release","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"NextMagazine","variants":[{"isAxis":true,"keyCode":["R"],"axisName":"Mouse Scroll","positiveAxis":true,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"PreviousMagazine","variants":[{"isAxis":true,"keyCode":["R"],"axisName":"Mouse Scroll","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"ChangePointOfView","variants":[{"isAxis":false,"keyCode":["Home"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"CheckAmmo","variants":[{"isAxis":false,"keyCode":["T","LeftAlt"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"ShootingMode","variants":[{"isAxis":false,"keyCode":["B"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"CheckFireMode","variants":[{"isAxis":false,"keyCode":["B","LeftAlt"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"CheckChamber","variants":[{"isAxis":false,"keyCode":["T","LeftShift"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"ChamberUnload","variants":[{"isAxis":false,"keyCode":["R","LeftControl"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"UnloadMagazine","variants":[{"isAxis":false,"keyCode":["R","LeftAlt"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Prone","variants":[{"isAxis":false,"keyCode":["X"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Sprint","variants":[{"isAxis":false,"keyCode":["LeftShift"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Duck","variants":[{"isAxis":false,"keyCode":["C"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Release","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"NextWalkPose","variants":[{"isAxis":true,"keyCode":["C"],"axisName":"Mouse Scroll","positiveAxis":true,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"PreviousWalkPose","variants":[{"isAxis":true,"keyCode":["C"],"axisName":"Mouse Scroll","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Walk","variants":[{"isAxis":false,"keyCode":["CapsLock"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"BlindShootAbove","variants":[{"isAxis":false,"keyCode":["W","LeftAlt"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Continuous","pressAvailable":false,"PressTypeAvailable":true},{"keyName":"BlindShootRight","variants":[{"isAxis":false,"keyCode":["S","LeftAlt"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Continuous","pressAvailable":false,"PressTypeAvailable":true},{"keyName":"StepRight","variants":[{"isAxis":false,"keyCode":["E","LeftAlt"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Continuous","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"StepLeft","variants":[{"isAxis":false,"keyCode":["Q","LeftAlt"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Continuous","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"ExamineWeapon","variants":[{"isAxis":false,"keyCode":["L"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"FoldStock","variants":[{"isAxis":false,"keyCode":["L","LeftAlt"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Inventory","variants":[{"isAxis":false,"keyCode":["Tab"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Jump","variants":[{"isAxis":false,"keyCode":["Space"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Knife","variants":[{"isAxis":false,"keyCode":["V"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"QuickKnife","variants":[{"isAxis":false,"keyCode":["V"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"DoubleClick","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"PrimaryWeaponFirst","variants":[{"isAxis":false,"keyCode":["Alpha2"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"PrimaryWeaponSecond","variants":[{"isAxis":false,"keyCode":["Alpha3"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"SecondaryWeapon","variants":[{"isAxis":false,"keyCode":["Alpha1"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Slot4","variants":[{"isAxis":false,"keyCode":["Alpha4"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Slot5","variants":[{"isAxis":false,"keyCode":["Alpha5"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Slot6","variants":[{"isAxis":false,"keyCode":["Alpha6"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Slot7","variants":[{"isAxis":false,"keyCode":["Alpha7"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Slot8","variants":[{"isAxis":false,"keyCode":["Alpha8"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Slot9","variants":[{"isAxis":false,"keyCode":["Alpha9"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Slot0","variants":[{"isAxis":false,"keyCode":["Alpha0"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Escape","variants":[{"isAxis":false,"keyCode":["Escape"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"OpticCalibrationSwitchUp","variants":[{"isAxis":false,"keyCode":["PageUp"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"OpticCalibrationSwitchDown","variants":[{"isAxis":false,"keyCode":["PageDown"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"MakeScreenshot","variants":[{"isAxis":false,"keyCode":["SysReq"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":false,"PressTypeAvailable":true},{"keyName":"ThrowItem","variants":[{"isAxis":false,"keyCode":["Delete"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":false,"PressTypeAvailable":true},{"keyName":"Breath","variants":[{"isAxis":false,"keyCode":["LeftAlt"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"ToggleInfo","variants":[{"isAxis":false,"keyCode":["I"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Console","variants":[{"isAxis":false,"keyCode":["BackQuote"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"Enter","variants":[{"isAxis":false,"keyCode":["Return"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},{"isAxis":false,"keyCode":["KeypadEnter"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Press","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"F1","variants":[{"isAxis":false,"keyCode":["F1"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Release","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"F2","variants":[{"isAxis":false,"keyCode":["F2"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Release","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"F3","variants":[{"isAxis":false,"keyCode":["F3"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Release","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"F4","variants":[{"isAxis":false,"keyCode":["F4"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Release","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"F5","variants":[{"isAxis":false,"keyCode":["F5"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Release","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"F6","variants":[{"isAxis":false,"keyCode":["F6"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Release","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"F7","variants":[{"isAxis":false,"keyCode":["F7"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Release","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"F8","variants":[{"isAxis":false,"keyCode":["F8"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Release","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"F9","variants":[{"isAxis":false,"keyCode":["F9"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Release","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"F10","variants":[{"isAxis":false,"keyCode":["F10"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Release","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"F11","variants":[{"isAxis":false,"keyCode":["F11"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Release","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"F12","variants":[{"isAxis":false,"keyCode":["F12"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"Release","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"DoubleF1","variants":[{"isAxis":false,"keyCode":["F1"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"DoubleClick","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"DoubleF2","variants":[{"isAxis":false,"keyCode":["F2"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"DoubleClick","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"DoubleF3","variants":[{"isAxis":false,"keyCode":["F3"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"DoubleClick","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"DoubleF4","variants":[{"isAxis":false,"keyCode":["F4"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"DoubleClick","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"DoubleF5","variants":[{"isAxis":false,"keyCode":["F5"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"DoubleClick","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"DoubleF6","variants":[{"isAxis":false,"keyCode":["F6"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"DoubleClick","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"DoubleF7","variants":[{"isAxis":false,"keyCode":["F7"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"DoubleClick","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"DoubleF8","variants":[{"isAxis":false,"keyCode":["F8"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"DoubleClick","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"DoubleF9","variants":[{"isAxis":false,"keyCode":["F9"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"DoubleClick","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"DoubleF10","variants":[{"isAxis":false,"keyCode":["F10"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"DoubleClick","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"DoubleF11","variants":[{"isAxis":false,"keyCode":["F11"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"DoubleClick","pressAvailable":true,"PressTypeAvailable":true},{"keyName":"DoubleF12","variants":[{"isAxis":false,"keyCode":["F12"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}],"pressType":"DoubleClick","pressAvailable":true,"PressTypeAvailable":true}],"axisBindings":[{"axisName":"MoveX","pairs":[{"positive":{"isAxis":false,"keyCode":["D"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},"negative":{"isAxis":false,"keyCode":["A"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}},{"positive":{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},"negative":{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}}],"isInverted":false,"gravity":0.0,"snapToZero":false,"modificator":"None"},{"axisName":"MoveY","pairs":[{"positive":{"isAxis":false,"keyCode":["W"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},"negative":{"isAxis":false,"keyCode":["S"],"axisName":"","positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}},{"positive":{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},"negative":{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}}],"isInverted":false,"gravity":0.0,"snapToZero":false,"modificator":"None"},{"axisName":"TurnX","pairs":[{"positive":{"isAxis":true,"keyCode":[],"axisName":"Mouse X","positiveAxis":true,"deadZone":0.0,"sensitivity":5.0},"negative":{"isAxis":true,"keyCode":[],"axisName":"Mouse X","positiveAxis":false,"deadZone":0.0,"sensitivity":5.0}},{"positive":{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},"negative":{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}}],"isInverted":false,"gravity":0.0,"snapToZero":false,"modificator":"None"},{"axisName":"TurnY","pairs":[{"positive":{"isAxis":true,"keyCode":[],"axisName":"Mouse Y","positiveAxis":false,"deadZone":0.0,"sensitivity":5.0},"negative":{"isAxis":true,"keyCode":[],"axisName":"Mouse Y","positiveAxis":true,"deadZone":0.0,"sensitivity":5.0}},{"positive":{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},"negative":{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}}],"isInverted":false,"gravity":0.0,"snapToZero":false,"modificator":"None"},{"axisName":"LookX","pairs":[{"positive":{"isAxis":true,"keyCode":[],"axisName":"Mouse X","positiveAxis":true,"deadZone":0.0,"sensitivity":5.0},"negative":{"isAxis":true,"keyCode":[],"axisName":"Mouse X","positiveAxis":false,"deadZone":0.0,"sensitivity":5.0}},{"positive":{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},"negative":{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}}],"isInverted":false,"gravity":0.0,"snapToZero":false,"modificator":"None"},{"axisName":"LookY","pairs":[{"positive":{"isAxis":true,"keyCode":[],"axisName":"Mouse Y","positiveAxis":false,"deadZone":0.0,"sensitivity":5.0},"negative":{"isAxis":true,"keyCode":[],"axisName":"Mouse Y","positiveAxis":true,"deadZone":0.0,"sensitivity":5.0}},{"positive":{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},"negative":{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}}],"isInverted":false,"gravity":0.0,"snapToZero":false,"modificator":"None"},{"axisName":"LeanX","pairs":[{"positive":{"isAxis":false,"keyCode":["D","LeftAlt"],"axisName":"","positiveAxis":true,"deadZone":0.0,"sensitivity":5.0},"negative":{"isAxis":false,"keyCode":["A","LeftAlt"],"axisName":"","positiveAxis":true,"deadZone":0.0,"sensitivity":5.0}},{"positive":{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0},"negative":{"isAxis":false,"keyCode":[],"axisName":null,"positiveAxis":false,"deadZone":0.0,"sensitivity":1.0}}],"isInverted":false,"gravity":0.0,"snapToZero":false,"modificator":"None"}],"StatedInvertedXAxisValue":false,"StatedInvertedYAxisValue":false,"InvertedXAxis":false,"InvertedYAxis":false,"MouseSensitivity":0.21,"MouseAimingSensitivity":0.21,"DoubleClickTimeout":0.3,"StatedFieldOfView":75.0,"StatedHeadbobbing":1.0,"Language":"es","Subtitles":false,"TutorialHints":false,"DontAllowToAddMe":false,"QuickSlotsVisibility":"Autohide","StaminaVisibility":"Autohide","HealthVisibility":"Always","HealthColor":"WhiteToRed","NotificationTransportType":"Default","HighlightScope":"All","AimingDeadzone":0,"Fov":25,"Headbobbing":8,"NVidiaHighlightsEnabled":false,"ClearRAM":false,"SetAffinityToLogicalCores":false,"Blood":false,"BadLanguage":false,"RagfairLinesCountIndex":0,"EnvironmentUiType":"FactoryEnvironmentUiType","EnablePostFx":true,"Brightness":0,"Saturation":31,"Clarity":82,"Colorfulness":100,"LumaSharpen":10,"AdaptiveSharpen":3,"ColorFilterType":3,"Intensity":0,"ColorBlindnessType":0,"ColorblindnessIntensity":0,"CharacterVoiceLanguage":null,"OverallVolume":10,"EffectsVolume":0,"InterfaceVolume":10,"ChatVolume":0,"MusicVolume":0,"VoiceVolume":10,"HideoutVolume":10,"MicrophoneSensitivity":10,"MuteOtherPlayers":true,"MusicOnRaidEnd":true,"BinauralSound":true,"GetBoundItemNames":{"ItemV":"V","Item1":"1","Item2":"2","Item3":"3","Item4":"4","Item5":"5","Item6":"6","Item7":"7","Item8":"8","Item9":"9","Item10":"0"},"XInvert":1,"YInvert":1,"InterfaceVolumeLevel":0,"MusicVolumeValue":-80,"HideoutVolumeValue":0},"Local":{"Resolution":{"Width":1920,"Height":1080,"RefreshRate":60},"ResolutionIndex":0,"AspectRatio":0,"GraphicsQuality":2,"CustomGraphicsQuality":true,"MultimonitorSupport":false,"VSync":0,"FullscreenMode":0,"LobbyFramerate":60,"GameFramerate":144,"TextureQuality":2,"ShadowsQuality":0,"ObjectLodQuality":1,"SuperSampling":0,"AnisotropicFiltering":1,"OverallVisibility":1,"ShadowVisibility":0,"Ssao":0,"Sharpen":7,"SSR":0,"AntiAliasing":2,"GrassShadow":0,"Bloom":1,"ChromaticAberrations":0,"Noise":0,"Hdr":1,"ZBlur":0,"HighQualityColor":0,"MipStreaming":0}} 
+2021-08-11 23:19:36.341 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/game/start:
+ 
+2021-08-11 23:19:36.454 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/game/start, time: 0.02 seconds:
+ 
+2021-08-11 23:19:36.470 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/menu/locale/es:
+ 
+2021-08-11 23:19:36.500 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/menu/locale/es, time: 0.017 seconds:
+ 
+2021-08-11 23:19:36.524 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/game/version/validate:
+ 
+2021-08-11 23:19:36.549 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/game/version/validate, time: 0.015 seconds:
+ 
+2021-08-11 23:19:36.567 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/languages:
+ 
+2021-08-11 23:19:36.582 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/languages, time: 0.013 seconds:
+ 
+2021-08-11 23:19:36.606 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/game/config:
+ 
+2021-08-11 23:19:36.615 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/game/config, time: 0.008 seconds:
+ 
+2021-08-11 23:19:36.640 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/game/keepalive:
+ 
+2021-08-11 23:19:36.648 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/game/keepalive, time: 0.007 seconds:
+ 
+2021-08-11 23:19:37.425 +02:00|0.12.10.2.12893|Info|backend|BackendCache.Load File name: C:/0.12.10.2.12893_AKI_1.5.1_AIO/0.12.10.2.12893_AKI_1.5.1_AIO.7z/0.12.10.2.12893_AKI_1.5.1_AIO/EscapeFromTarkov_Data/../cache/ba7b59e1f2c786595b2939f4ad36cb03, URL: https://127.0.0.1:443/client/items 
+2021-08-11 23:19:37.425 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/items:
+ 
+2021-08-11 23:19:37.757 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/items, time: 0.326 seconds:
+ 
+2021-08-11 23:19:46.503 +02:00|0.12.10.2.12893|Info|backend|BackendCache.Load File name: C:/0.12.10.2.12893_AKI_1.5.1_AIO/0.12.10.2.12893_AKI_1.5.1_AIO.7z/0.12.10.2.12893_AKI_1.5.1_AIO/EscapeFromTarkov_Data/../cache/4117a194b97e0a54c6ea75d8bce9a7e9, URL: https://127.0.0.1:443/client/customization 
+2021-08-11 23:19:46.503 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/customization:
+ 
+2021-08-11 23:19:46.518 +02:00|0.12.10.2.12893|Info|backend|BackendCache.Load File name: C:/0.12.10.2.12893_AKI_1.5.1_AIO/0.12.10.2.12893_AKI_1.5.1_AIO.7z/0.12.10.2.12893_AKI_1.5.1_AIO/EscapeFromTarkov_Data/../cache/470bc13b735912b5167a6574f523c561, URL: https://127.0.0.1:443/client/globals 
+2021-08-11 23:19:46.518 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/globals:
+ 
+2021-08-11 23:19:46.535 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/customization, time: 0.029 seconds:
+ 
+2021-08-11 23:19:46.707 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/globals, time: 0.187 seconds:
+ 
+2021-08-11 23:19:47.724 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/game/profile/list:
+ 
+2021-08-11 23:19:47.740 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/game/profile/list, time: 0.015 seconds:
+ 
+2021-08-11 23:19:48.869 +02:00|0.12.10.2.12893|Info|application|SelectProfile ProfileId:pmc4ef9a5d68e8b6a419a341088 AccountId:4ef9a5d68e8b6a419a341088 
+2021-08-11 23:19:48.869 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/game/profile/select:
+ 
+2021-08-11 23:19:48.897 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/game/profile/select, time: 0.016 seconds:
+ 
+2021-08-11 23:19:48.914 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/profile/status:
+ 
+2021-08-11 23:19:48.930 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/profile/status, time: 0.015 seconds:
+ 
+2021-08-11 23:19:48.972 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/weather:
+ 
+2021-08-11 23:19:48.972 +02:00|0.12.10.2.12893|Info|backend|BackendCache.Load File name: C:/0.12.10.2.12893_AKI_1.5.1_AIO/0.12.10.2.12893_AKI_1.5.1_AIO.7z/0.12.10.2.12893_AKI_1.5.1_AIO/EscapeFromTarkov_Data/../cache/2c6968644d3877815eec33d0314039f8, URL: https://127.0.0.1:443/client/locale/es 
+2021-08-11 23:19:48.973 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/locale/es:
+ 
+2021-08-11 23:19:48.973 +02:00|0.12.10.2.12893|Info|backend|BackendCache.Load File name: C:/0.12.10.2.12893_AKI_1.5.1_AIO/0.12.10.2.12893_AKI_1.5.1_AIO.7z/0.12.10.2.12893_AKI_1.5.1_AIO/EscapeFromTarkov_Data/../cache/371ca2dc236a0bb33f7e1e3162316492, URL: https://127.0.0.1:443/client/locations 
+2021-08-11 23:19:48.973 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/locations:
+ 
+2021-08-11 23:19:48.973 +02:00|0.12.10.2.12893|Info|application|SelectProfile ProfileId:pmc4ef9a5d68e8b6a419a341088 AccountId:4ef9a5d68e8b6a419a341088 
+2021-08-11 23:19:48.973 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/game/profile/select:
+ 
+2021-08-11 23:19:48.989 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/weather, time: 0.01 seconds:
+ 
+2021-08-11 23:19:49.062 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/game/profile/select, time: 0.073 seconds:
+ 
+2021-08-11 23:19:49.079 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/profile/status:
+ 
+2021-08-11 23:19:49.117 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/locations, time: 0.13 seconds:
+ 
+2021-08-11 23:19:49.117 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/locale/es, time: 0.138 seconds:
+ 
+2021-08-11 23:19:49.599 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/profile/status, time: 0.52 seconds:
+ 
+2021-08-11 23:19:50.036 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/handbook/templates:
+ 
+2021-08-11 23:19:51.355 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/handbook/templates, time: 1.3 seconds:
+ 
+2021-08-11 23:19:54.502 +02:00|0.12.10.2.12893|Error|assetBundle|Error: could not load bundle: assets/content/weapons/usable_items/item_meds_core_medical_surgical_kit/item_meds_core_medical_surgical_kit.animatorcontrollerdata.bundle 
+2021-08-11 23:19:55.126 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/hideout/areas:
+ 
+2021-08-11 23:19:55.154 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/hideout/areas, time: 0.017 seconds:
+ 
+2021-08-11 23:19:55.500 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/hideout/settings:
+ 
+2021-08-11 23:19:55.523 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/hideout/settings, time: 0.021 seconds:
+ 
+2021-08-11 23:19:55.539 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/hideout/production/recipes:
+ 
+2021-08-11 23:19:55.556 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/hideout/production/recipes, time: 0.016 seconds:
+ 
+2021-08-11 23:19:55.606 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/hideout/production/scavcase/recipes:
+ 
+2021-08-11 23:19:55.622 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/hideout/production/scavcase/recipes, time: 0.015 seconds:
+ 
+2021-08-11 23:19:55.689 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/handbook/builds/my/list:
+ 
+2021-08-11 23:19:55.697 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/handbook/builds/my/list, time: 0.007 seconds:
+ 
+2021-08-11 23:19:55.773 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/quest/list:
+ 
+2021-08-11 23:19:55.805 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/quest/list, time: 0.017 seconds:
+ 
+2021-08-11 23:19:56.006 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/notifier/channel/create:
+ 
+2021-08-11 23:19:56.006 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/profile/status:
+ 
+2021-08-11 23:19:56.760 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/mail/dialog/list:
+ 
+2021-08-11 23:19:56.760 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/friend/list:
+ 
+2021-08-11 23:19:56.760 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/friend/request/list/inbox:
+ 
+2021-08-11 23:19:56.772 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/friend/request/list/outbox:
+ 
+2021-08-11 23:19:56.772 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/trading/customization/storage:
+ 
+2021-08-11 23:19:56.772 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/notifier/channel/create, time: 0.77 seconds:
+ 
+2021-08-11 23:19:56.815 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/mail/dialog/list, time: 0.053 seconds:
+ 
+2021-08-11 23:19:56.882 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/friend/list, time: 0.117 seconds:
+ 
+2021-08-11 23:19:56.896 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/friend/request/list/inbox, time: 0.127 seconds:
+ 
+2021-08-11 23:19:56.896 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/friend/request/list/outbox, time: 0.136 seconds:
+ 
+2021-08-11 23:19:56.896 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/profile/status, time: 0.132 seconds:
+ 
+2021-08-11 23:19:56.896 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/trading/customization/storage, time: 0.132 seconds:
+ 
+2021-08-11 23:19:56.917 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/server/list:
+ 
+2021-08-11 23:19:56.953 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/trading/api/getTradersList:
+ 
+2021-08-11 23:19:56.962 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/server/list, time: 0.015 seconds:
+ 
+2021-08-11 23:19:56.962 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/trading/api/getTradersList, time: 0.014 seconds:
+ 
+2021-08-11 23:19:57.076 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/checkVersion:
+ 
+2021-08-11 23:19:57.346 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/checkVersion, time: 0.059 seconds:
+ 
+2021-08-11 23:20:01.341 +02:00|0.12.10.2.12893|Error|assetBundle|Error: could not load bundle: assets/content/weapons/usable_items/item_meds_core_medical_surgical_kit/item_meds_core_medical_surgical_kit_container.bundle 
+2021-08-11 23:20:01.341 +02:00|0.12.10.2.12893|Error|assetBundle|Error: could not load bundle: assets/content/weapons/usable_items/item_meds_core_medical_surgical_kit/item_meds_core_medical_surgical_kit_loot.bundle 
+2021-08-11 23:20:03.916 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c:
+ 
+2021-08-11 23:20:03.975 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c, time: 0.036 seconds:
+ 
+2021-08-11 23:20:03.998 +02:00|0.12.10.2.12893|Error|Default|Invalid _weaponObject: Doge 
+2021-08-11 23:20:03.998 +02:00|0.12.10.2.12893|Error|Default| 
+EXCEPTION: System.NullReferenceException: Object reference not set to an instance of an object
+  at WeaponPrefab.OnCreatePoolRoleModel () [0x00006] in <747e3a38ea844378af61007e5c234abf>:0 
+  at GClass1944`1+Struct361[T].MoveNext () [0x00360] in <747e3a38ea844378af61007e5c234abf>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.GetResult () [0x00000] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at GClass1944`1+Struct360[T].MoveNext () [0x0009b] in <747e3a38ea844378af61007e5c234abf>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.GetResult () [0x00000] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at GClass1944`1+Struct364[T].MoveNext () [0x0009c] in <747e3a38ea844378af61007e5c234abf>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.GetResult () [0x00000] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at GClass1945`1+Struct358[T].MoveNext () [0x000a3] in <747e3a38ea844378af61007e5c234abf>:0 
+2021-08-11 23:20:04.007 +02:00|0.12.10.2.12893|Error|Default|assets/content/weapons/usable_items/item_meds_core_medical_surgical_kit/item_meds_core_medical_surgical_kit_container.bundle 
+2021-08-11 23:20:04.007 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/trading/api/getUserAssortPrice/trader/5ac3b934156ae10c4430e83c:
+ 
+2021-08-11 23:20:04.042 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/trading/api/getUserAssortPrice/trader/5ac3b934156ae10c4430e83c, time: 0.032 seconds:
+ 
+2021-08-11 23:20:04.815 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/trading/customization/5ac3b934156ae10c4430e83c/offers:
+ 
+2021-08-11 23:20:04.859 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/trading/customization/5ac3b934156ae10c4430e83c/offers, time: 0.014 seconds:
+ 
+2021-08-11 23:20:07.788 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/game/profile/items/moving:
+ 
+2021-08-11 23:20:07.837 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/game/profile/items/moving, time: 0.038 seconds:
+ 
+2021-08-11 23:20:10.182 +02:00|0.12.10.2.12893|Error|Default|Aki.SinglePlayer: Request: /player/health/sync 
+2021-08-11 23:20:10.182 +02:00|0.12.10.2.12893|Error|Default|Aki.SinglePlayer: Request session: 4ef9a5d68e8b6a419a341088 
+2021-08-11 23:20:10.434 +02:00|0.12.10.2.12893|Error|Default|Aki.SinglePlayer: Request was successful 
+2021-08-11 23:20:12.965 +02:00|0.12.10.2.12893|Error|Default|Aki.SinglePlayer: Request: /singleplayer/settings/raid/menu 
+2021-08-11 23:20:12.965 +02:00|0.12.10.2.12893|Error|Default|Aki.SinglePlayer: Request was successful 
+2021-08-11 23:20:25.289 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/game/profile/items/moving:
+ 
+2021-08-11 23:20:25.314 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/game/profile/items/moving, time: 0.013 seconds:
+ 
+2021-08-11 23:20:26.759 +02:00|0.12.10.2.12893|Error|Default|Aki.SinglePlayer: Request: /singleplayer/settings/raid/menu 
+2021-08-11 23:20:26.759 +02:00|0.12.10.2.12893|Error|Default|Aki.SinglePlayer: Request was successful 
+2021-08-11 23:20:41.088 +02:00|0.12.10.2.12893|Debug|application|TRACE-NetworkGameMatching H 
+2021-08-11 23:20:41.088 +02:00|0.12.10.2.12893|Debug|application|TRACE-NetworkGameMatching I 
+2021-08-11 23:21:26.739 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/game/keepalive:
+ 
+2021-08-11 23:21:28.531 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/game/keepalive, time: 1.769 seconds:
+ 
+2021-08-11 23:21:48.796 +02:00|0.12.10.2.12893|Error|assetBundle|Error: could not load bundle: assets/content/weapons/usable_items/item_meds_core_medical_surgical_kit/item_meds_core_medical_surgical_kit.animatorcontrollerdata.bundle 
+2021-08-11 23:21:49.179 +02:00|0.12.10.2.12893|Error|assetBundle|Error: could not load bundle: assets/content/weapons/usable_items/item_meds_core_medical_surgical_kit/item_meds_core_medical_surgical_kit_loot.bundle 
+2021-08-11 23:21:49.214 +02:00|0.12.10.2.12893|Error|assetBundle|Error: could not load bundle: assets/content/weapons/usable_items/item_meds_core_medical_surgical_kit/item_meds_core_medical_surgical_kit_container.bundle 
+2021-08-11 23:21:49.500 +02:00|0.12.10.2.12893|Error|Default|Invalid _weaponObject: Doge 
+2021-08-11 23:21:49.500 +02:00|0.12.10.2.12893|Error|Default| 
+EXCEPTION: System.NullReferenceException: Object reference not set to an instance of an object
+  at WeaponPrefab.OnCreatePoolRoleModel () [0x00006] in <747e3a38ea844378af61007e5c234abf>:0 
+  at GClass1944`1+Struct361[T].MoveNext () [0x00360] in <747e3a38ea844378af61007e5c234abf>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.GetResult () [0x00000] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at GClass1944`1+Struct360[T].MoveNext () [0x0009b] in <747e3a38ea844378af61007e5c234abf>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.GetResult () [0x00000] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at GClass1944`1+Struct364[T].MoveNext () [0x0009c] in <747e3a38ea844378af61007e5c234abf>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.GetResult () [0x00000] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at GClass1945`1+Struct358[T].MoveNext () [0x000a3] in <747e3a38ea844378af61007e5c234abf>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.GetResult () [0x00000] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at GClass1198+Class731+Struct93.MoveNext () [0x002d0] in <747e3a38ea844378af61007e5c234abf>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.GetResult () [0x00000] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at GClass1198+Class731+Struct92.MoveNext () [0x00098] in <747e3a38ea844378af61007e5c234abf>:0 
+2021-08-11 23:21:49.504 +02:00|0.12.10.2.12893|Error|Default|NullReferenceException: Object reference not set to an instance of an object
+WeaponPrefab.OnCreatePoolRoleModel () (at <747e3a38ea844378af61007e5c234abf>:0)
+GClass1944`1+Struct361[T].MoveNext () (at <747e3a38ea844378af61007e5c234abf>:0)
+--- End of stack trace from previous location where exception was thrown ---
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.GetResult () (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+GClass1944`1+Struct360[T].MoveNext () (at <747e3a38ea844378af61007e5c234abf>:0)
+--- End of stack trace from previous location where exception was thrown ---
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.GetResult () (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+GClass1944`1+Struct364[T].MoveNext () (at <747e3a38ea844378af61007e5c234abf>:0)
+--- End of stack trace from previous location where exception was thrown ---
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.GetResult () (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+GClass1945`1+Struct358[T].MoveNext () (at <747e3a38ea844378af61007e5c234abf>:0)
+--- End of stack trace from previous location where exception was thrown ---
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.GetResult () (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+GClass1198+Class731+Struct93.MoveNext () (at <747e3a38ea844378af61007e5c234abf>:0)
+--- End of stack trace from previous location where exception was thrown ---
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+System.Runtime.CompilerServices.TaskAwaiter.GetResult () (at <e1319b7195c343e79b385cd3aa43f5dc>:0)
+GClass1198+Class731+Struct92.MoveNext () (at <747e3a38ea844378af61007e5c234abf>:0)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+Class219:UnityEngine.ILogHandler.LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Struct92:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:SetException(Exception)
+Struct93:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:SetException(Exception)
+Struct358:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:SetException(Exception)
+Struct364:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:SetException(Exception)
+Struct360:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:SetException(Exception)
+Struct361:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:SetResult()
+Struct474:MoveNext()
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+Diz.Jobs.JobScheduler:LateUpdate()
+ 
+2021-08-11 23:21:49.504 +02:00|0.12.10.2.12893|Error|objectPool|3930|Failed to initialize pool:assets/content/weapons/usable_items/item_meds_core_medical_surgical_kit/item_meds_core_medical_surgical_kit_container.bundle 
+2021-08-11 23:21:49.504 +02:00|0.12.10.2.12893|Error|objectPool|3930|Failed to initialize pool:assets/content/weapons/usable_items/item_meds_core_medical_surgical_kit/item_meds_core_medical_surgical_kit_container.bundle 
+2021-08-11 23:21:49.951 +02:00|0.12.10.2.12893|Debug|application|TRACE-GamePrepare 2 
+2021-08-11 23:21:50.069 +02:00|0.12.10.2.12893|Error|Default|Aki.SinglePlayer: Request: /singleplayer/settings/weapon/durability 
+2021-08-11 23:21:50.069 +02:00|0.12.10.2.12893|Error|Default|Aki.SinglePlayer: Request was successful 
+2021-08-11 23:21:50.069 +02:00|0.12.10.2.12893|Info|backend|BackendCache.Load File name: C:/0.12.10.2.12893_AKI_1.5.1_AIO/0.12.10.2.12893_AKI_1.5.1_AIO.7z/0.12.10.2.12893_AKI_1.5.1_AIO/EscapeFromTarkov_Data/../cache/8574eae3327852cd3fa994f00405d71f, URL: https://127.0.0.1:443/client/location/getLocalloot?locationId=bigmap&variantId=5 
+2021-08-11 23:21:50.087 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/location/getLocalloot:
+ 
+2021-08-11 23:21:50.416 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/location/getLocalloot, time: 0.327 seconds:
+ 
+2021-08-11 23:21:50.700 +02:00|0.12.10.2.12893|Error|Default|Could not add item patron_545x39_BP (id: 59d382c886f7742c4e725089) to stackslot cartridges in item mag_ak74_izhmash_6L20_545x39_30 (id: 59d382c886f7742c4e725085). Reason: GException4: Trying to add item patron_545x39_BP (id: 59d382c886f7742c4e725089) to slot stackslot cartridges in item mag_ak74_izhmash_6L20_545x39_30 (id: 59d382c886f7742c4e725085) at position 0 but the slot already contains item patron_545x39_PS (id: 5fe245fcd37530769a4ebaad) at this position.
+  at EFT.InventoryLogic.StackSlot.AddAtPosition (EFT.InventoryLogic.Item item, System.Int32 position) [0x00067] in <747e3a38ea844378af61007e5c234abf>:0 
+  at GClass967.FlatItemsToTree (GClass758[] flatItems, System.Boolean silentMode, System.Collections.Generic.Dictionary`2[TKey,TValue] preexistingItems) [0x0023b] in <747e3a38ea844378af61007e5c234abf>:0  
+2021-08-11 23:21:50.946 +02:00|0.12.10.2.12893|Error|Default|PatchPrefix SelectSpawnPoint Infiltrations: 218 | Boiler Tanks, Customs,  
+2021-08-11 23:21:50.946 +02:00|0.12.10.2.12893|Error|Default|Filter by Infiltration: Customs 
+2021-08-11 23:21:50.946 +02:00|0.12.10.2.12893|Error|Default|Filter by Categories: Player 
+2021-08-11 23:21:50.946 +02:00|0.12.10.2.12893|Error|Default|Filter by Side: Usec 
+2021-08-11 23:21:50.946 +02:00|0.12.10.2.12893|Error|Default|PatchPrefix SelectSpawnPoint: 967f3d09-de07-4f11-b68f-2f42ba684f51 
+2021-08-11 23:21:53.067 +02:00|0.12.10.2.12893|Error|assetBundle|Error: could not load bundle: assets/content/items/equipment/helmet_team_wendy_exfil_face_shield/item_equipment_helmet_team_wendy_exfil_face_shield_coyote.bundle 
+2021-08-11 23:21:56.597 +02:00|0.12.10.2.12893|Error|assetBundle|Error: could not load bundle: assets/content/items/equipment/helmet_opscore_fast_side_armor/item_equipment_helmet_opscore_fast_gunsight_mandible.bundle 
+2021-08-11 23:22:50.832 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/game/keepalive:
+ 
+2021-08-11 23:22:50.865 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/game/keepalive, time: 0.017 seconds:
+ 
+2021-08-11 23:23:50.887 +02:00|0.12.10.2.12893|Info|backend|---> Request  URL: https://127.0.0.1:443/client/game/keepalive:
+ 
+2021-08-11 23:23:50.921 +02:00|0.12.10.2.12893|Info|backend|<--- response URL: https://127.0.0.1:443/client/game/keepalive, time: 0.017 seconds:
+ 
